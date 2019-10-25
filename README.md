@@ -1,4 +1,4 @@
-# Rall-A-Ball-Katrina
+# Roll-A-Ball-Katrina
  ball rolling game - Assingment 5 
 
 - Added an intro scene 
